@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BankTest" type="JUnit" factoryName="JUnit" singleton="false" nameIsGenerated="true">
+    <module name="MavenTest" />
+    <useClassPathOnly />
+    <option name="PACKAGE_NAME" value="org.bank.classes" />
+    <option name="MAIN_CLASS_NAME" value="org.bank.classes.BankTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="PARAMETERS" value="" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
